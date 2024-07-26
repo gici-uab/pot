@@ -1,0 +1,12 @@
+
+v1.1 August 24th, 2012 
+	* Support for unsigned data types
+	* Compile by default a 32 bit static executable
+	* License is now GPLv3 instead of AGPLv3
+	* Mike Acton's branch-free implementation of half-precision (16 bit) floating
+	  point is now included
+
+v1.0 - August 1st, 2010
+	* First release
+
+
